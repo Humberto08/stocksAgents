@@ -25,7 +25,7 @@ Este projeto é um sistema de análise de preços de ações que utiliza ferrame
 
 ```
    https://github.com/Humberto08/stocksAgents.git
-   cd stock-analysis-agent
+   cd webAppStocks
 ```
 2. Instale as dependências:
 
