@@ -27,12 +27,15 @@ Este projeto é um sistema de análise de preços de ações que utiliza ferrame
    https://github.com/Humberto08/stocksAgents.git
    cd webAppStocks
 ```
+
 2. Instale as dependências:
 
 ```
   pip install -r requirements.txt
 ```
+
 3. Configure a chave da API da OpenAI no Streamlit:
+
 ```
   streamlit secrets set OPENAI_API_KEY "sua-api-key"
 ```
@@ -40,9 +43,11 @@ Este projeto é um sistema de análise de preços de ações que utiliza ferrame
 ## Como Usar
 
 1. Execute a aplicação:
+
 ```
   streamlit run app.py
 ```
+
 2. Insira o ticket da ação no campo de pesquisa e clique em "Run Research".
 
 3. Visualize os resultados da pesquisa, incluindo o relatório de tendências e o boletim informativo.
@@ -62,7 +67,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Autores e colaboradores
 
 - [@Humberto Luciano](https://www.github.com/Humberto)
-
 
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
