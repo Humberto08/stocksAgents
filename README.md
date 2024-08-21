@@ -1,6 +1,6 @@
 # Stock Analysis Agent
 
-![alt imagem de capa](./.github/wallpaper.png)
+![alt imagem de capa](./.github/Wallpaper.png)
 
 Este projeto é um sistema de análise de preços de ações que utiliza ferramentas de IA para buscar, analisar e gerar relatórios sobre tendências de mercado. Ele combina dados financeiros, notícias e análises aprofundadas para fornecer insights sobre ativos específicos.
 
