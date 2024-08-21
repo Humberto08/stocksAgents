@@ -67,7 +67,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Autores e colaboradores
 
-- [@Humberto Luciano](https://www.github.com/Humberto)
+- [Humberto Luciano](https://www.github.com/Humberto08)
 
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
